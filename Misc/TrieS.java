@@ -102,7 +102,7 @@ public class TrieS {
 		System.out.println(obj.print(obj.head, "bac"));
 
 		ArrayList<ArrayList<Integer>> ar = new ArrayList<>();
-		ar.
+	
 	}
 
 }

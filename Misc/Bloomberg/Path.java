@@ -27,7 +27,7 @@ public class Path {
 	public void getAllPath(Point src, Point dest) {
 		ArrayList<Point> result = new ArrayList<>();
 		result.add(src);
-		result.indexOf(o)
+	
 		if(src.x < dest.x && src.y < dest.y) {
 			
 			getPath(src,src, dest, result, 1, 1); 

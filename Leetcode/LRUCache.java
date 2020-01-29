@@ -117,7 +117,7 @@ class LRUCache {
         }
     }
     public static void main(String args[]) {
-    	 LRUinBuilt lru = new LRUinBuilt(2);
+    	 LRU lru = new LRU(2);
     	 lru.put(1, 2);
     	 System.out.println(lru.get(1));
     	 
